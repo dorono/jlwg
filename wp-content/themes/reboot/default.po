@@ -1,0 +1,1031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: reboot\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-23 16:04-0000\n"
+"PO-Revision-Date: 2012-08-23 16:04-0000\n"
+"Last-Translator: Marc Remblance <marc@guuhuu.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\Users\\Marc Remblance\\Desktop\\reboot (23_08)\\reboot\n"
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/404.php:16
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/404.php:26
+msgid "Oh! This is embarrasing."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/404.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Please try using one of the navigation links above."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:17
+msgid "Posts in the Category:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:23
+msgid "Posts Tagged with:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:29
+msgid "Posts By:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:35
+msgid "Daily Archives:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:41
+msgid "Monthly Archives:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/archive.php:47
+msgid "Yearly Archives:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:18
+msgid "No Comments"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:46
+msgid "Leave a Comment"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:56
+msgid "You must be"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:56
+msgid "logged in"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:56
+msgid "to post a comment."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:63
+msgid "Logged in as"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:63
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:68
+msgid "Your name"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:69
+msgid "Please enter your name."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:73
+msgid "Your email"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:74
+msgid "This will not be published."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:78
+msgid "Website"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:79
+msgid "Your website (optional)"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:85
+msgid "Your message"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/comments.php:86
+msgid "Please leave a reply..."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/functions.php:125
+msgid "Header Navigation Menu"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/functions.php:409
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/functions.php:413
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/header.php:20
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/search.php:16
+msgid "Search Results"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/search.php:30
+msgid "Nothing Found!"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/search.php:31
+msgid "Sorry, but no results were found. Please try the search again?"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot (23_08)\reboot/searchform.php:3
+msgid "Enter your search term..."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/taxonomy-project-type.php:16
+msgid "Project-Type Archives:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:96
+msgid "Your Name:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:97
+msgid "Please enter your full name..."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:102
+msgid "Your Email:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:103
+msgid "Please enter a contact email..."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:108
+msgid "Enquiry:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-contact.php:109
+msgid "Please enter your enquiry..."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/template-homepage.php:97
+msgid "All"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/classes/class.options_machine.php:475
+msgid "Last Backup : "
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/classes/class.options_machine.php:535
+msgid "Upload"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/front-end/options.php:42
+#: (23_08)\reboot/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:329
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:333
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:355
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:979
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:357
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3691
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:1033
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:4115
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:1089
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:1407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2181
+msgid "External Link"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2191
+msgid "Private Repository"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2205
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2211
+msgid "Required"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2211
+msgid "Recommended"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2217
+msgid "Not Installed"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2221
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2561
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2593
+msgid "Plugin"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2595
+msgid "Source"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2597
+msgid "Type"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2599
+msgid "Status"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2635
+msgid "Install"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:2637
+msgid "Activate"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3657
+msgid "Install package not available."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3661
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3663
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3665
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3667
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3689
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3909
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3911
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3911
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3929
+msgid "Show Details"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3911
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3929
+msgid "Hide Details"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3913
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3915
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3923
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3925
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3927
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3929
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3931
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/class-tgm-plugin-activation.php:3933
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/dropdown-menus.php:189
+msgid "Use this widget to add one of your custom menus as a dropdown."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/dropdown-menus.php:190
+msgid "Dropdown Menu"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/dropdown-menus.php:227
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/dropdown-menus.php:232
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/dropdown-menus.php:236
+msgid "Select Menu:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-functions.php:194
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-functions.php:207
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:11
+msgid "Portfolio Detail Settings"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:17
+msgid "Portfolio Type"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:18
+msgid "Choose the type of portfolio you wish to display."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:25
+msgid "Client Name"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:26
+msgid "Client who this project was completed for"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:32
+msgid "Project Date"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:33
+msgid "What was the date of the completed project"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:39
+msgid "Project Role"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:40
+msgid "Your role on this project (eg; designer/developer)"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:46
+msgid "Project URL"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:47
+msgid "What is the URL for this project"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:57
+msgid "Image Settings"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:73
+msgid "Video Settings"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:79
+msgid "Video Embed Code"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:80
+msgid "If you are using video from somewhere like YouTube, Vimeo etc... Please paste the embed code here. Width should be at least 780px with any height.<br><br>"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:115
+msgid "Select your preferred Portfolio Type and fill out the additional information fields."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:177
+msgid "Upload images to be used for this portfolio item (images should be at least 780px wide).<br />Set a Featured Image (to the box on the right) that will be displayed on the main portfolio page, and homepage. Then upload the main images to be used in your showcase using the Upload button below."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-portfoliometa.php:239
+msgid "This setting enables you to embed videos into your portfolio pages."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-servicesmeta.php:11
+msgid "Service Details"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-servicesmeta.php:17
+msgid "Service URL"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-servicesmeta.php:18
+msgid "Insert a url for your service to link to. (ie; http://www.mysite.com/service-name/"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-slidermeta.php:11
+msgid "Slide Details"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-slidermeta.php:23
+msgid "Slide URL"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/theme-slidermeta.php:24
+msgid "Insert a url for the slide to link to."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:13
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:13
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:13
+msgid "Add New"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:14
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:15
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:16
+msgid "New Portfolio Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:17
+msgid "View Portfolio Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:18
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:19
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:19
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:19
+msgid "No items found"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:20
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:20
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:20
+msgid "No items found in Trash"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:46
+msgid "Things to remember when adding a Portfolio item:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:48
+msgid "Give the item a title. The title will be used as the item's headline."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:49
+msgid "You can choose to insert either single images, image slideshow, or video, below."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:50
+msgid "Enter your portfolio item overview into the Visual or HTML area. The text will appear for your project overview."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:51
+msgid "Choose (or first create) a Project Type. You will need to use these to enable the filterable Portfolio option."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:55
+msgid "A list of all Portfolio items appear below. To edit an item, click on the items's title."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:105
+msgid "Sort Portfolio Items"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/portfolio-type.php:106
+msgid "Click, drag, re-order. Repeat as neccessary. Portfolio item at the top will appear first on your page."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:12
+msgid "Services"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:14
+msgid "Add New Service"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:15
+msgid "Edit Service Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:16
+msgid "New Service Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:17
+msgid "View Service Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:18
+msgid "Search Service Items"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:47
+msgid "Things to remember when adding a Service:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:49
+msgid "Give the Service a title. (ie; Website Development or Mobile Development)."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:50
+msgid "Add a short excerpt to describe your service."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:51
+msgid "Add a featured image to appear above your service title. This could be an icon, or small thumbnail."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/services-type.php:55
+msgid "A list of all services items appear below. To edit an item, click on the items's title."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:12
+msgid "Slider"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:14
+msgid "Add New Slider Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:15
+msgid "Edit Slider Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:16
+msgid "New Slider Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:17
+msgid "View Slider Item"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:18
+msgid "Search Slider Items"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:47
+msgid "Things to remember when adding a Slider item:"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:49
+msgid "Give the item a title. This will appear as the main heading on the slide."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:50
+msgid "Add a short caption. This will appear below the main heading on the slide."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:51
+msgid "Attach a Featured Image to use on your Slider."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:52
+msgid "Add a link to the slider item. This can be a link to a Portfolio item, or an external link."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:56
+msgid "A list of all Slider items appear below. To edit an item, click on the items's title."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:102
+msgid "Sort Slider Items"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/functions/custom-post-types/slider-type.php:103
+msgid "Click, drag, re-order. Repeat as neccessary. Slide item at the top will appear first on your slider."
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/includes/post-excerpt.php:7
+msgid "Added"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/includes/post-excerpt.php:7
+msgid "by"
+msgstr ""
+
+#: C:\Users\Marc
+#: Remblance\Desktop\reboot
+#: (23_08)\reboot/includes/post-meta.php:14
+msgid "Comments"
+msgstr ""
+
