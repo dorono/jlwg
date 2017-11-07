@@ -8,9 +8,14 @@
 
 get_header(); ?>
 
+      <div id="welcome-banner" class="span12">
+        <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("welcome-banner") ) : ?>
+        <?php endif; ?>
+      </div>
+
       <section class="middle">
 
-        <div class="row"> 
+        <div class="row">
 
           <header id="page-title" class="span12">
             <div class="ribbon">
@@ -22,13 +27,13 @@ get_header(); ?>
 
         <div class="row">
 
-          <section class="span8<?php if(!is_page(array('5','496'))) { 
-		  	echo " internal_page"; 
-		  } ?>">   
+          <section class="span8<?php if(!is_page(array('5','496'))) {
+		  	echo " internal_page";
+		  } ?>">
 			<div id="content_container">
-			  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>              
+			  <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
               <?php the_content(); ?>
-              <?php endwhile;  ?> 
+              <?php endwhile;  ?>
               <?php endif; ?>
             </div>
           </section>
@@ -36,9 +41,9 @@ get_header(); ?>
 <?php //get_sidebar() ?>
 
         </div><!-- end .row -->
-         
+
       </section><!-- end .middle -->
-    
+
     </div><!-- end .container -->
 
 <?php get_footer() ?>

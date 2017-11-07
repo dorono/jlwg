@@ -10,7 +10,7 @@ get_header(); ?>
 
       <section class="middle">
 
-        <div class="row"> 
+        <div class="row">
 
           <header id="page-title" class="span12">
             <div class="ribbon">
@@ -26,19 +26,19 @@ get_header(); ?>
 
             <div <?php post_class(); ?>>
 
-          <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>             
+          <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
             <?php the_content(); ?>
-          <?php endwhile;  ?> 
+          <?php endwhile;  ?>
           <?php endif; ?>
 
             </div><!-- end post class -->
-                
+
           </section><!-- end .span12 -->
 
         </div><!-- end .row -->
 
       </section><!-- end .middle -->
-    
+
     </div><!-- end .container -->
 
 <?php get_footer() ?>

@@ -347,7 +347,7 @@ final class MonsterInsights_License {
         }
 
         // If an error is returned, set the error and return.
-        if ( ! empty( $deactivate->error ) ) {
+        if ( ! empty( $deactivate->error ) && ! monsterinsights_is_debug_mode() ) {
             $this->errors[] = $deactivate->error;
             return;
         }
@@ -452,6 +452,10 @@ final class MonsterInsights_License {
             $option = get_site_option( 'monsterinsights_license' );
         } else {
             $option = get_option( 'monsterinsights_license' );
+        }
+
+        if ( ! monsterinsights_is_pro_version() ) {
+            return;
         }
 
         if ( is_multisite() && is_network_admin() ) {
