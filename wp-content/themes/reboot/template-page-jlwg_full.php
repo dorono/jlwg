@@ -8,10 +8,8 @@
 
 get_header(); ?>
 
-      <div id="welcome-banner" class="span12">
-        <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("welcome-banner") ) : ?>
-        <?php endif; ?>
-      </div>
+      <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar("welcome-banner") ) : ?>
+      <?php endif; ?>
 
       <section class="middle">
 
@@ -27,7 +25,7 @@ get_header(); ?>
 
         <div class="row">
 
-          <section class="span8<?php if(!is_page(array('5','496'))) {
+          <section class="span8<?php if(!is_page(array('5','496', '539'))) {
 		  	echo " internal_page";
 		  } ?>">
 			<div id="content_container">

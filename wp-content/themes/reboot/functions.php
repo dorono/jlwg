@@ -150,7 +150,7 @@ function gt_widgets_init() {
   register_sidebar( array(
     'name' => 'Welcome Banner',
     'id'   => 'welcome-banner',
-    'before_widget' => '<div id="%1$s" class="widget %2$s">',
+    'before_widget' => '<div id="welcome-banner" class="widget %2$s span12">',
     'after_widget'  => '</div>',
     'before_title'  => '<h4 class="widget-title">',
     'after_title'   => '</h4>'

@@ -285,10 +285,18 @@ iframe.gmap {
 #welcome-banner h4 {
 	border-bottom-color: #000;
 	font-weight: bold;
+	font-size: 26px;
 }
 #welcome-banner h4,
 #welcome-banner .textwidget p {
 	color: #000;
+}
+#welcome-banner .textwidget p {
+	font-size: 20px;
+	font-style: italic;
+}
+.widgets_on_page ul li {
+	padding: 0 !important;
 }
 .video_outer_container {
 	width: 100%;
